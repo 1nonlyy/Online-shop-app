@@ -1,0 +1,1 @@
+Here is the mobile app for efficient shopping developed using Flutter. I make the app to buy and watch the female bags. However, you can make wide range of products to shop simply by inserting relevant images of things into "assets"  folder
